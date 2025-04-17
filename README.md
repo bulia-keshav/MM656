@@ -1,5 +1,5 @@
 # MM656
-# This project applies the Vogel's Approximation Method (VAM) to solve a transportation problem for a manufacturing company facing logistics challenges. The analysis determines the most cost-effective transportation partner by comparing two logistics providers with different cost structures and service capabilities. The solution is verified using the Modified Distribution (MODI) Method to confirm optimality, and additional perspectives on Sensitivity analysis are provided to enhance decision-making.
+## This project applies the Vogel's Approximation Method (VAM) to solve a transportation problem for a manufacturing company facing logistics challenges. The analysis determines the most cost-effective transportation partner by comparing two logistics providers with different cost structures and service capabilities. The solution is verified using the Modified Distribution (MODI) Method to confirm optimality, and additional perspectives on Sensitivity analysis are provided to enhance decision-making.
 
 
 # Introduction to the Business Case
